@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files*/
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body{
+    color: rgb(79, 81, 228);
+    background-color: rgb(134, 196, 214);
+    padding:20px;
+    margin: auto;
+    border-color:burlywood;
+    margin: 2px dashed tan;
+
+    border: auto;
+    border-top: 10px solid;
+    border-bottom: 10px solid;
+    border-left: 10px solid;
+    border-right: 10px solid;
+    border-radius: 2em;
+    font-family: 'Times New Roman', Times, serif 16px;
+    
+}
